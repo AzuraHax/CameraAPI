@@ -112,3 +112,4 @@ public class Camera {
 		rx += amt;
 	}
 }
+/*Coded By Azura*/
